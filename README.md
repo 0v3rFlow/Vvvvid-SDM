@@ -25,13 +25,12 @@ Questo è il mio primo script in Python 3. Ho voluto fare questo programma per m
 *1) Scaricare ed installare Python da qui (https://www.python.org/downloads/). L'ultima versione che vi propone va benissimo;
   **NB: durante l'installazione selezionare la casella *Add Python to PATH***;
 *2)Riavviare il computer;
-------------------------------------------------------------------------------------------------------------------------------
 
 **FFMPEG
 
 *1) Segui le istruzioni che trovi sul link ( non preoccuparti sono veramente molto semplici ). 
 **NB: Se il link non funzionasse su google/youtube trovi molte guide su come installarlo.
-------------------------------------------------------------------------------------------------------------------------------
+
 
 * Scaricare questo repository in formato zip cliccando sul bottone verde 'Clone or Download';
 * Estrarre il file zip in una cartella;
