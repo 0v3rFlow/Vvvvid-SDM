@@ -7,16 +7,16 @@ V4id-SDM è script in Python3 che ti da la possibilità di poter guardare comoda
 
  ## Requisiti e compatibiltà
  Lo scritp è stato scritto utilizzando Python3 e devo essere lanciato con questo. 
- L'ho testato sia con Windows (10) e su linux
+ L'ho testato sia con Windows (10) e su Linux.
  
  I moduli che ho utilizzato per creare lo scritp sono i seguenti :
  
- * 'requests'
- * 'youtube_dl'
- * 'colorama'
- * 'terminaltables'
+ * requests
+ * youtube_dl
+ * colorama
+ * terminaltables
  
-Installare **FFMPEG** su entrambi i sistemi operativi. L'installazione è molto semplice, cercare su internet e troverete tutto oppure andate a questo link dove troverete tutto https://www.thepostspot.com/installare-ffmpeg/
+Installare **FFMPEG** su entrambi i sistemi operativi. L'installazione è molto semplice, o cercate su internet oppure andate a questo link dove troverete tutto https://www.thepostspot.com/installare-ffmpeg/
 
 Installare **VLC** su entrambi i sistemi operativi.
 
