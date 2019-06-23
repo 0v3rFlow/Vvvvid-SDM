@@ -56,8 +56,8 @@ Enjoy :)
 **Se hai già installato python3 puoi pure saltare questo pezzo**
 
 ```bash
-* sudo apt-get update
-* sudo apt-get install python3.*
+sudo apt-get update
+sudo apt-get install python3.*
 ```
 
 **FFMPEG**
@@ -165,6 +165,76 @@ Esempio:  1 e poi invio.
 ```
 Verrà visualizzata la trama della stagione. Se è stato doppiato in italiano possiamo scegliere la lingua tra 'IT' o 'JP.
 Esempio : JP
+
+```bash
++----+-----------------------------------------------+-----------------+-------------+-------------------+
+| ID | Titolo                                        | Numero episodio | Disponibile | Data Uscita       |
++----+-----------------------------------------------+-----------------+-------------+-------------------+
+| 1  | Segnale di fumo                               | 01              | Si          |                   |
+| 2  | Dolore                                        | 02              | Si          |                   |
+| 3  | Storie passate                                | 03              | Si          |                   |
+| 4  | Fiducia                                       | 04              | Si          |                   |
+| 5  | Risposta                                      | 05              | Si          |                   |
+| 6  | Peccato                                       | 06              | Si          |                   |
+| 7  | Desiderio                                     | 07              | Si          |                   |
+| 8  | Le mura del distretto di Orvud                | 08              | Si          |                   |
+| 9  | Monarca delle Mura                            | 09              | Si          |                   |
+| 10 | Amici                                         | 10              | Si          |                   |
+| 11 | Spettatore                                    | 11              | Si          |                   |
+| 12 | La notte prima dell'operazione di riconquista | 12              | Si          |                   |
+| 13 | La città dove tutto iniziò                    | 13              | Si          |                   |
+| 14 | Le lance fulmine                              | 14              | Si          |                   |
+| 15 | La venuta                                     | 15              | Si          |                   |
+| 16 | Partita perfetta                              | 16              | Si          |                   |
+| 17 | Il coraggioso                                 | 17              | Si          |                   |
+| 18 | Sole di mezzanotte                            | 18              | Si          |                   |
+| 19 | La cantina                                    | 19              | Si          |                   |
+| 20 | Quel giorno                                   | 20              | Si          |                   |
+| 21 | Episodio 21                                   | 21              | No          | 24 giu 2019 18:00 |
++----+-----------------------------------------------+-----------------+-------------+-------------------+
+[ID] #Download/Streaming. [0] #Indietro. [00] #Download di tutti gli episodi
+
+```
+Adesso abbiamo 2 possibilità o scegliere un episodio oppure scaricare tutta la serie
+**NB: Quando gli episodi deveono ancora essere pubblicati puoi vedere la sua data di uscita
+NB2: Se dicidi di scaricare tutta la serie o un solo episodio verrà creata una cartello dentro la cartella dello script con il nome"Vvvvid" e al suo interno troverai divisi per lingua tutte le serire con i lori episodi **
+-> VVVVID -> JP -> L'attacco dei giganti -> Episodio 1...
+          -> IT -> L'attacco dei giganti -> Episodio 1...**
+          
+Esempio: 1
+
+```bash
++----+-----------------------------------------------+-----------------+-------------+-------------------+
+| ID | Titolo                                        | Numero episodio | Disponibile | Data Uscita       |
++----+-----------------------------------------------+-----------------+-------------+-------------------+
+| 1  | Segnale di fumo                               | 01              | Si          |                   |
+| 2  | Dolore                                        | 02              | Si          |                   |
+| 3  | Storie passate                                | 03              | Si          |                   |
+| 4  | Fiducia                                       | 04              | Si          |                   |
+| 5  | Risposta                                      | 05              | Si          |                   |
+| 6  | Peccato                                       | 06              | Si          |                   |
+| 7  | Desiderio                                     | 07              | Si          |                   |
+| 8  | Le mura del distretto di Orvud                | 08              | Si          |                   |
+| 9  | Monarca delle Mura                            | 09              | Si          |                   |
+| 10 | Amici                                         | 10              | Si          |                   |
+| 11 | Spettatore                                    | 11              | Si          |                   |
+| 12 | La notte prima dell'operazione di riconquista | 12              | Si          |                   |
+| 13 | La città dove tutto iniziò                    | 13              | Si          |                   |
+| 14 | Le lance fulmine                              | 14              | Si          |                   |
+| 15 | La venuta                                     | 15              | Si          |                   |
+| 16 | Partita perfetta                              | 16              | Si          |                   |
+| 17 | Il coraggioso                                 | 17              | Si          |                   |
+| 18 | Sole di mezzanotte                            | 18              | Si          |                   |
+| 19 | La cantina                                    | 19              | Si          |                   |
+| 20 | Quel giorno                                   | 20              | Si          |                   |
+| 21 | Episodio 21                                   | 21              | No          | 24 giu 2019 18:00 |
++----+-----------------------------------------------+-----------------+-------------+-------------------+
+[ID] #Download/Streaming. [0] #Indietro. [00] #Download di tutti gli episodi 1
+[D] #Download. [S] #Streaming. [0] #Indietro. 
+
+```
+Ora lo scritp ci chiede se vogliamo scaricare [D]il singolo episodio oppure lo vogliamo semplicemente guardare [S].
+
 
 
 
