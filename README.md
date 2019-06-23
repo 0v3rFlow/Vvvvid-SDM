@@ -54,8 +54,11 @@ Enjoy :)
 # Installazione su Linux  
 
 **Se hai già installato python3 puoi pure saltare questo pezzo**
+
+```bash
 * sudo apt-get update
 * sudo apt-get install python3.*
+```
 
 **FFMPEG**
 * Segui le istruzioni che trovi sul link ( non preoccuparti sono veramente molto semplici ). 
@@ -69,10 +72,10 @@ Enjoy :)
 Ora che avete sia Python FFMPEG e VLC installati potete scariccare questo repository.
 
 ```bash
-* git clone https://github.com/0v3rFlow/Vvvvid-SDM.git
-* cd Vvvvvid-SDM
-* pip install -r requirements.txt
-* chmod +x ./v4id-sdm.py
+git clone https://github.com/0v3rFlow/Vvvvid-SDM.git
+cd Vvvvvid-SDM
+pip install -r requirements.txt
+chmod +x ./v4id-sdm.py
 ```
 
 Enjoy :)
@@ -93,7 +96,17 @@ Come nel sito potrei scegliere le stagioni in base ai seguenti filtri:
 * 4)Filtro A-Z ( Inserire l'iniziale della serie che si vuole cercare )
 
 In base alla scelta lo scritp ci risponderà con le stagioni:
-Esempio: 1 e poi invio
+Esempio:
+
+```bash
+1) In Evidenzia
+2) Popolari
+3) Nuove uscite
+4) Filtro A-Z
+0) Indietro
+
+V4id-SDM>> 1
+```
 
 ```bash
 +----+--------------------------------------------------+--------------------+-----------+
@@ -136,6 +149,8 @@ Ora inseriamo l'ID che è il numero che corrisponde all'episodio.
 Esempio:  1 e poi invio.
 
 ```bash
+
+[ID] #Info Serie. [0] #Indietro. 1
 +----------------------------------------+---------------------------------------------------------------------------------------+
 | L'Attacco dei Giganti - Terza Stagione | Attack on Titan (Shingeki no kyojin) - In precedenza gli uomini temevano il mondo     |
 |                                        | esterno. Vivevano circondati da mura invalicabili, innalzate allo scopo di proteggere |
@@ -146,10 +161,12 @@ Esempio:  1 e poi invio.
 |                                        | valori con cui sono cresciuti. Minacciati nella sopravvivenza continueranno a cercare |
 |                                        | un fuoco di verità che illumini il loro cammino.                                      |
 +----------------------------------------+---------------------------------------------------------------------------------------+
-[IT/JP] #In che lingua vuoi la stagione ?
+[IT/JP] #In che lingua vuoi la stagione ? JP
 ```
 Verrà visualizzata la trama della stagione. Se è stato doppiato in italiano possiamo scegliere la lingua tra 'IT' o 'JP.
 Esempio : JP
+
+
 
 
 
