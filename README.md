@@ -18,9 +18,8 @@ Questo è il mio primo script in Python 3. Ho voluto fare questo programma per m
  
 È importante aver installare FFMPEG su entrambi i sistemi operativi. L'installazione è molto semplice, cercare su internet e troverete tutto oppure andate a questo link dove troverete tutto https://www.thepostspot.com/installare-ffmpeg/
 
-*-----------------------------*
-# Installazione su Windows    |
-*-----------------------------*
+# Installazione su Windows
+
 **Se hai già installato python3 puoi pure saltare questo pezzo.
 
 *1) Scaricare ed installare Python da qui (https://www.python.org/downloads/). L'ultima versione che vi propone va benissimo;
