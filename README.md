@@ -18,7 +18,9 @@ Questo è il mio primo script in Python 3. Ho voluto fare questo programma per m
  
 È importante aver installare FFMPEG su entrambi i sistemi operativi. L'installazione è molto semplice, cercare su internet e troverete tutto oppure andate a questo link dove troverete tutto https://www.thepostspot.com/installare-ffmpeg/
 
-# Installazione su Windows
+............................
+# Installazione su Windows .
+............................
 
 **Se hai già installato python3 puoi pure saltare questo pezzo**
 
@@ -36,10 +38,22 @@ Ora che avete sia Python che FFMPEG installati potete scariccare questo reposito
 * Estrarre il file zip in una cartella;
 * Eseguire il file `v4id-sdm-win-setup` per installare automaticamente i moduli di Python richiesti.
 
-Ora potete lanciare 'v4id-sdm-win.bat' 
+* Ora potete lanciare `v4id-sdm-win.bat`
+
 Enjoy :)
 
-# Installazione su Linux
+
+..........................
+# Installazione su Linux .
+..........................
+
+* git clone https://github.com/0v3rFlow/Vvvvid-SDM.git
+* cd Vvvvvid-SDM
+* pip install -r requirements.txt
+* chmod +x ./v4id-sdm.py
+* Enjoy :)
+
+
 
 
 
