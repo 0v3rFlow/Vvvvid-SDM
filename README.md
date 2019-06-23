@@ -81,7 +81,7 @@ chmod +x ./v4id-sdm.py
 Enjoy :)
 
 ## Utilizzo
-Una volta avviato lo scritp avrai a disposizione 2 opzioni:
+Una volta avviato lo script avrai a disposizione 2 opzioni:
 * Streaming di un episodio(VLC Obbligatorio)
 * Download episodio/serie
 
