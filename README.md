@@ -22,7 +22,7 @@ Installare **VLC** su entrambi i sistemi operativi.
 
 **NB: Non funziona fuori dall'Italia a meno che non utiliziate una VPN**
 
-# Installazione su Windows .
+# Installazione su Windows 
 
 **Se hai già installato python3 puoi pure saltare questo pezzo**
 
