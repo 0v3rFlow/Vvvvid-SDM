@@ -1,6 +1,6 @@
 # -----------------------------------------------------------------------------#
 # Autore      : 0v3rFlow
-# Descrizione : Vvvvid Streaming Downdload Manager. Guarda instreaming e
+# Descrizione : Vvvvid Streaming Downdload Manager. Guarda in streaming e
 #               scaricare tutte le serie contenute sul sito Vvvvid.
 #               Enjoy :D
 # -----------------------------------------------------------------------------#
