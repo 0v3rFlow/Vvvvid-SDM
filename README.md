@@ -43,9 +43,11 @@ Ora che avete sia Python che FFMPEG installati potete scariccare questo reposito
 Enjoy :)
 
 
-..........................
-# Installazione su Linux .
-..........................
+...........................
+
+# Installazione su Linux  .
+
+...........................
 
 * git clone https://github.com/0v3rFlow/Vvvvid-SDM.git
 * cd Vvvvvid-SDM
