@@ -1,0 +1,6 @@
+requests
+
+youtube_dl
+colorama
+
+terminaltables
