@@ -163,7 +163,7 @@ Esempio:  1 e poi invio.
 +----------------------------------------+---------------------------------------------------------------------------------------+
 [IT/JP] #In che lingua vuoi la stagione ? JP
 ```
-Verrà visualizzata la trama della stagione. Se è stato doppiato in italiano possiamo scegliere la lingua tra 'IT' o 'JP.
+Verrà visualizzata la trama della stagione. Se è stato doppiato in italiano possiamo scegliere la lingua tra 'IT' o 'JP'.
 Esempio : JP
 
 ```bash
