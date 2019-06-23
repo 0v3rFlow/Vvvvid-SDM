@@ -196,10 +196,11 @@ Esempio : JP
 
 ```
 Adesso abbiamo 2 possibilità o scegliere un episodio oppure scaricare tutta la serie
-**NB: Quando gli episodi deveono ancora essere pubblicati puoi vedere la sua data di uscita
-NB2: Se dicidi di scaricare tutta la serie o un solo episodio verrà creata una cartello dentro la cartella dello script con il nome"Vvvvid" e al suo interno troverai divisi per lingua tutte le serire con i lori episodi **
--> VVVVID -> JP -> L'attacco dei giganti -> Episodio 1...
-          -> IT -> L'attacco dei giganti -> Episodio 1...**
+**NB: Quando gli episodi deveono ancora essere pubblicati puoi vedere la sua data di uscita**
+**NB2: Se dicidi di scaricare tutta la serie o un solo episodio verrà creata una cartello dentro la cartella dello script con il nome"Vvvvid" e al suo interno troverai divisi per lingua tutte le serire con i lori episodi **
+
+**-> Cartella : VVVVID -> JP -> L'attacco dei giganti -> Episodio 1...
+                       -> IT -> L'attacco dei giganti -> Episodio 1...**
           
 Esempio: 1
 
@@ -233,7 +234,19 @@ Esempio: 1
 [D] #Download. [S] #Streaming. [0] #Indietro. 
 
 ```
-Ora lo scritp ci chiede se vogliamo scaricare [D]il singolo episodio oppure lo vogliamo semplicemente guardare [S].
+Ora lo scritp ci chiede se vogliamo scaricare [D] il singolo episodio oppure lo vogliamo semplicemente guardare [S].
+Esempio: 
+[Ð] = Download terminato troverai l'episodio nella stessa cartella dello scritp.
+[S] = Verrà aperto VLC.
+
+## FINE!
+
+Spero che possiate apprezzare il mio programma ed il mio impegno. Sicuramente il codice non è scritto ad livello avanzato ma per me aver raggiuto questo obiettivo è stato molto gratificante. Non mi fermerò qui! Cercherò di fare altri piccoli progetti per migliorarmi ancora di più ;)
+
+Se vi è piaciuto il mio programma lasciate pure una stella e se fa piacere potete anche offrirmi un caffè :)
+
+
+
 
 
 
