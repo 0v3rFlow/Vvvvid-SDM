@@ -1,9 +1,9 @@
 # Introduzione
-Questo è il mio primo script in Python 3. Ho voluto fare questo programma per mettermi alla prova e poter iniziare a conoscere questo linguaggio di programmazione. A questo, ho aggiunto anche la mia passione nel guardare gli anime giapponesi ed è cosi che è nato questo programma. Spero sia utile e che possia piacere come piace a me.
+Questo è il mio primo script in Python3. Ho voluto fare questo programma per mettermi alla prova e poter iniziare a conoscere questo linguaggio di programmazione. A questo, ho aggiunto anche la mia passione nel guardare gli anime giapponesi ed è cosi che è nato questo programma. Spero sia utile e che possia piacere come piace a me.
 
 # V4id-SDM
 
-V4id-SDM è script in Python 3 che ti da la possibilità di poter guardare comodamente, tutte le serie contenute all'interno del sito vvvvid.it e ti da anche la possibilità di poterle scaricare.
+V4id-SDM è script in Python3 che ti da la possibilità di poter guardare comodamente e senza varie interruzioni, tutte le serie contenute all'interno del famoso sito italiano vvvvid.it e ti da anche la possibilità di poterle scaricare.
 
  ## Requisiti e compatibiltà
  Lo scritp è stato scritto utilizzando Python3 e devo essere lanciato con questo. 
@@ -19,6 +19,8 @@ V4id-SDM è script in Python 3 che ti da la possibilità di poter guardare comod
 Installare **FFMPEG** su entrambi i sistemi operativi. L'installazione è molto semplice, cercare su internet e troverete tutto oppure andate a questo link dove troverete tutto https://www.thepostspot.com/installare-ffmpeg/
 
 Installare **VLC** su entrambi i sistemi operativi.
+
+**NB: Non funziona fuori dall'Italia a meno che non utiliziate una VPN**
 
 # Installazione su Windows .
 
