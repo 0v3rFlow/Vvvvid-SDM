@@ -16,7 +16,9 @@ Questo è il mio primo script in Python 3. Ho voluto fare questo programma per m
  * 'colorama'
  * 'terminaltables'
  
-È importante aver installare FFMPEG su entrambi i sistemi operativi. L'installazione è molto semplice, cercare su internet e troverete tutto oppure andate a questo link dove troverete tutto https://www.thepostspot.com/installare-ffmpeg/
+Installare **FFMPEG** su entrambi i sistemi operativi. L'installazione è molto semplice, cercare su internet e troverete tutto oppure andate a questo link dove troverete tutto https://www.thepostspot.com/installare-ffmpeg/
+
+Installare **VLC** su entrambi i sistemi operativi.
 
 # Installazione su Windows .
 
@@ -31,6 +33,10 @@ Questo è il mio primo script in Python 3. Ho voluto fare questo programma per m
 * Segui le istruzioni che trovi sul link ( non preoccuparti sono veramente molto semplici ). 
 **NB: Se il link non funzionasse su google/youtube trovi molte guide su come installarlo.**
 
+**VLC**
+* Scaricate ed installate VLC da qui https://www.videolan.org/vlc/()
+* Ora dobbiamo aggiungere vlc lanciabile dal prompt dei comandi di windows. Puoi seguire questa semplice guida da 1 minuto (https://www.vlchelp.com/add-vlc-command-prompt-windows/).
+
 Ora che avete sia Python che FFMPEG installati potete scariccare questo repository.
 * Scaricare questo repository in formato zip cliccando sul bottone verde 'Clone or Download';
 * Estrarre il file zip in una cartella;
@@ -44,11 +50,27 @@ Enjoy :)
 
 # Installazione su Linux  
 
+**Se hai già installato python3 puoi pure saltare questo pezzo**
+* sudo apt-get update
+* sudo apt-get install python3.*
+
+**FFMPEG**
+* Segui le istruzioni che trovi sul link ( non preoccuparti sono veramente molto semplici ). 
+**NB: Se il link non funzionasse su google/youtube trovi molte guide su come installarlo.**
+
+**VLC**
+* Scaricate ed installate VLC da qui https://www.videolan.org/vlc/()
+
 * git clone https://github.com/0v3rFlow/Vvvvid-SDM.git
 * cd Vvvvvid-SDM
 * pip install -r requirements.txt
 * chmod +x ./v4id-sdm.py
-* Enjoy :)
+
+Enjoy :)
+
+## Utilizzo
+Una volta avviato lo scritp avrai a disposizione 2 opzioni:
+* 
 
 
 
