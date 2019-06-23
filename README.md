@@ -195,8 +195,8 @@ Esempio : JP
 [ID] #Download/Streaming. [0] #Indietro. [00] #Download di tutti gli episodi
 
 ```
-Adesso abbiamo 2 possibilità o scegliere un episodio oppure scaricare tutta la serie
-**NB: Quando gli episodi deveono ancora essere pubblicati puoi vedere la sua data di uscita**
+Adesso abbiamo 2 possibilità: scegliere un episodio oppure scaricare tutta la serie
+**NB: Se gli episodi devono essere ancora pubblicati, vedrà solamente la data di uscita**
 **NB2: Se dicidi di scaricare tutta la serie o un solo episodio verrà creata una cartello dentro la cartella dello script con il nome"Vvvvid" e al suo interno troverai divisi per lingua tutte le serire con i lori episodi **
 
 **-> Cartella : VVVVID -> JP -> L'attacco dei giganti -> Episodio 1...**
