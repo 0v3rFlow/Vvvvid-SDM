@@ -3,7 +3,7 @@ Questo è il mio primo script in Python 3. Ho voluto fare questo programma per m
 
 # V4id-SDM
 
-'V4id-SDM' è script in Python 3 che ti da la possibilità di poter guardare comodamente, tutte le serie contenute all'interno del sito vvvvid.it e ti da anche la possibilità di poterle scaricare.
+V4id-SDM è script in Python 3 che ti da la possibilità di poter guardare comodamente, tutte le serie contenute all'interno del sito vvvvid.it e ti da anche la possibilità di poterle scaricare.
 
  ## Requisiti e compatibiltà
  Lo scritp è stato scritto utilizzando Python3 e devo essere lanciato con questo. 
