@@ -20,7 +20,7 @@ Installare **FFMPEG** su entrambi i sistemi operativi. L'installazione è molto 
 
 Installare **VLC** su entrambi i sistemi operativi.
 
-**NB: Non funziona fuori dall'Italia a meno che non utiliziate una VPN**
+**NB: Non funziona fuori dall'Italia a meno che si utilizzi una VPN**
 
 # Installazione su Windows 
 
