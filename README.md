@@ -20,13 +20,13 @@ Questo è il mio primo script in Python 3. Ho voluto fare questo programma per m
 
 # Installazione su Windows
 
-**Se hai già installato python3 puoi pure saltare questo pezzo.
+**Se hai già installato python3 puoi pure saltare questo pezzo***
 
 * Scaricare ed installare Python da qui (https://www.python.org/downloads/). L'ultima versione che vi propone va benissimo;
   **NB: durante l'installazione selezionare la casella *Add Python to PATH***;
 * Riavviare il computer;
 
-**FFMPEG
+**FFMPEG***
 
 * Segui le istruzioni che trovi sul link ( non preoccuparti sono veramente molto semplici ). 
 **NB: Se il link non funzionasse su google/youtube trovi molte guide su come installarlo.
