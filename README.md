@@ -1,5 +1,5 @@
 # Introduzione
-Questo è il mio primo script in Python3. Ho voluto fare questo programma per mettermi alla prova e poter iniziare a conoscere questo linguaggio di programmazione. A questo, ho aggiunto anche la mia passione nel guardare gli anime giapponesi ed è cosi che è nato questo programma. Spero sia utile e che possia piacere come piace a me.
+Questo è il mio primo script in Python3. Ho voluto fare questo programma per mettermi alla prova e poter iniziare a conoscere questo linguaggio di programmazione. A questo, ho aggiunto anche la mia passione nel guardare gli anime giapponesi ed è cosi che è nato questo programma. Spero sia utile e che possa piacere come piace a me.
 
 # V4id-SDM
 
