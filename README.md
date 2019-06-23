@@ -238,11 +238,12 @@ Esempio: 1
 Ora lo scritp ci chiede se vogliamo scaricare [D] il singolo episodio oppure lo vogliamo semplicemente guardare [S].
 Esempio: 
 [Ð] = Download terminato troverai l'episodio nella stessa cartella dello scritp.
+
 [S] = Verrà aperto VLC.
 
 ## FINE!
 
-Spero che possiate apprezzare il mio programma ed il mio impegno. Sicuramente il codice non è scritto ad livello avanzato ma per me aver raggiuto questo obiettivo è stato molto gratificante. Non mi fermerò qui! Cercherò di fare altri piccoli progetti per migliorarmi ancora di più ;)
+Spero che possiate apprezzare il mio programma ed il mio impegno. Sicuramente il codice non è scritto a livello avanzato, ma per me aver raggiuto questo obiettivo è stato molto gratificante. Non mi fermerò qui! Cercherò di fare altri piccoli progetti per migliorarmi ancora di più ;)
 
 Se vi è piaciuto il mio programma lasciate pure una stella e se fa piacere potete anche offrirmi un caffè :)
 
