@@ -87,12 +87,13 @@ Una volta avviato lo scritp avrai a disposizione 2 opzioni:
 
 ### Download episodio/serie ###
 Come nel sito potrei scegliere le stagioni in base ai seguenti filtri:
-* In Evidenza
-* Popolari
-* Nuove uscite 
-* Filtro A-Z ( Inserire l'iniziale della serie che si vuole cercare )
+* 1)In Evidenza
+* 2)Popolari
+* 3)Nuove uscite 
+* 4)Filtro A-Z ( Inserire l'iniziale della serie che si vuole cercare )
 
 In base alla scelta lo scritp ci risponderà con le stagioni:
+Esempio: 1 e poi invio
 
 ```bash
 +----+--------------------------------------------------+--------------------+-----------+
@@ -131,6 +132,24 @@ In base alla scelta lo scritp ci risponderà con le stagioni:
 +----+--------------------------------------------------+--------------------+-----------+
 [ID] #Info Serie. [0] #Indietro. 
 ```
+Ora inseriamo l'ID che è il numero che corrisponde all'episodio.  
+Esempio:  1 e poi invio.
+
+```bash
++----------------------------------------+---------------------------------------------------------------------------------------+
+| L'Attacco dei Giganti - Terza Stagione | Attack on Titan (Shingeki no kyojin) - In precedenza gli uomini temevano il mondo     |
+|                                        | esterno. Vivevano circondati da mura invalicabili, innalzate allo scopo di proteggere |
+|                                        | l’umanità dai Giganti: creature a immagine dell’uomo, ma snaturate nel comportamento  |
+|                                        | e negli appetiti. Inchiodati a catene invisibili, gli uomini oggi hanno imparato che  |
+|                                        | neppure dentro le mura la sicurezza è garantita. Dopo la brutale minaccia del Gigante |
+|                                        | Bestia e la fuga dei traditori, Eren e compagni vedono scossi nelle fondamenta i      |
+|                                        | valori con cui sono cresciuti. Minacciati nella sopravvivenza continueranno a cercare |
+|                                        | un fuoco di verità che illumini il loro cammino.                                      |
++----------------------------------------+---------------------------------------------------------------------------------------+
+[IT/JP] #In che lingua vuoi la stagione ?
+```
+Verrà visualizzata la trama della stagione. Se è stato doppiato in italiano possiamo scegliere la lingua tra 'IT' o 'JP.
+Esempio : JP
 
 
 
