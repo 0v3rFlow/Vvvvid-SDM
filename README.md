@@ -67,20 +67,72 @@ Enjoy :)
 
 
 Ora che avete sia Python FFMPEG e VLC installati potete scariccare questo repository.
+
+```bash
 * git clone https://github.com/0v3rFlow/Vvvvid-SDM.git
 * cd Vvvvvid-SDM
 * pip install -r requirements.txt
 * chmod +x ./v4id-sdm.py
+```
 
 Enjoy :)
 
 ## Utilizzo
 Una volta avviato lo scritp avrai a disposizione 2 opzioni:
-* 1) Streaming di un episodio(VLC Obbligatorio)
-* 2) Download episodio/serie
+* Streaming di un episodio(VLC Obbligatorio)
+* Download episodio/serie
 
-### 1) Streaming di un episodio(VLC Obbligatorio) ###
-* Qui semplicemente basta che inseriate il link dell'episodio per far partire lo streaming. Il link è lo stesso di quando schiacci il pulsante play sul sito 
+### Streaming di un episodio(VLC Obbligatorio) ###
+* Basta che inseriate il link dell'episodio per far partire lo streaming. Il link è lo stesso che viene lanciato quando schiacci sul sito il pulsante play.
+
+### Download episodio/serie ###
+Come nel sito potrei scegliere le stagioni in base ai seguenti filtri:
+* In Evidenza
+* Popolari
+* Nuove uscite 
+* Filtro A-Z ( Inserire l'iniziale della serie che si vuole cercare )
+
+In base alla scelta lo scritp ci risponderà con le stagioni:
+
+```bash
++----+--------------------------------------------------+--------------------+-----------+
+| ID | Titolo                                           | Data pubblicazione | Views     |
++----+--------------------------------------------------+--------------------+-----------+
+| 1  | L'Attacco dei Giganti - Terza Stagione           | 2018               | 7.658.411 |
+| 2  | One-Punch Man - Seconda stagione                 | 2019               | 3.521.184 |
+| 3  | Demon Slayer                                     | 2019               | 1.354.187 |
+| 4  | Tokyo Ghoul:re                                   | 2018               | 6.109.987 |
+| 5  | Le bizzarre avventure di Jojo - Vento Aureo      | 2018               | 2.663.030 |
+| 6  | Star Blazers 2202                                | 2017               | 236.643   |
+| 7  | The Promised Neverland                           | 2019               | 1.284.060 |
+| 8  | Sword Art Online: Alicization                    | 2018               | 3.324.257 |
+| 9  | Goblin Slayer                                    | 2018               | 2.038.531 |
+| 10 | Steins;Gate 0                                    | 2018               | 1.102.815 |
+| 11 | In questo angolo di mondo                        | 2016               | 16.172    |
+| 12 | No Game No Life: Zero                            | 2017               | 75.785    |
+| 13 | Infini-T Force Movie                             | 2018               | 8.927     |
+| 14 | Gurazeni                                         | 2018               | 280.169   |
+| 15 | My Hero Academia – Terza stagione                | 2018               | 5.576.441 |
+| 16 | Megalo Box                                       | 2018               | 760.984   |
+| 17 | Sword Art Online Alternative: Gun Gale Online    | 2018               | 811.081   |
+| 18 | I Miei 23 Schiavi - Dorei-ku The Animation       | 2018               | 325.760   |
+| 19 | Full Metal Panic! Invisible Victory              | 2018               | 286.157   |
+| 20 | Devils' Line                                     | 2018               | 707.829   |
+| 21 | Legend of the Galactic Heroes                    | 2018               | 126.305   |
+| 22 | Tokyo Ghoul                                      | 2014               | 6.709.135 |
+| 23 | Tokyo Ghoul vA                                   | 2015               | 5.462.814 |
+| 24 | Kill la Kill                                     | 2013               | 1.255.173 |
+| 25 | Another                                          | 2012               | 714.256   |
+| 26 | Code Geass: Akito the Exiled                     | 2012               | 307.107   |
+| 27 | La Grande Avventura del Piccolo Principe Valiant | 1968               | 3.299     |
+| 28 | Pop Team Epic                                    | 2018               | 162.265   |
+| 29 | Dame x Prince Anime Caravan                      | 2018               | 152.372   |
+| 30 | No Game No Life                                  | 2014               | 982.554   |
++----+--------------------------------------------------+--------------------+-----------+
+[ID] #Info Serie. [0] #Indietro. 
+```
+
+
 
 
 
