@@ -33,6 +33,7 @@ Installare **VLC** su entrambi i sistemi operativi.
 **FFMPEG**
 
 * Segui le istruzioni che trovi sul link ( non preoccuparti sono veramente molto semplici ). 
+  https://www.thepostspot.com/installare-ffmpeg/
 **NB: Se il link non funzionasse su google/youtube trovi molte guide su come installarlo.**
 
 **VLC**
@@ -58,6 +59,7 @@ Enjoy :)
 
 **FFMPEG**
 * Segui le istruzioni che trovi sul link ( non preoccuparti sono veramente molto semplici ). 
+  https://www.thepostspot.com/installare-ffmpeg/
 **NB: Se il link non funzionasse su google/youtube trovi molte guide su come installarlo.**
 
 **VLC**
