@@ -69,7 +69,7 @@ sudo apt-get install python3.*
 * Scaricate ed installate VLC da qui https://www.videolan.org/vlc/()
 
 
-Ora che avete sia Python FFMPEG e VLC installati potete scariccare questo repository.
+Ora che avete sia Python FFMPEG e VLC installati potete scaricare questo repository.
 
 ```bash
 git clone https://github.com/0v3rFlow/Vvvvid-SDM.git
