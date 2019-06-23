@@ -236,10 +236,8 @@ Esempio: 1
 
 ```
 Ora lo scritp ci chiede se vogliamo scaricare [D] il singolo episodio oppure lo vogliamo semplicemente guardare [S].
-Esempio: 
-[Ð] = Download terminato troverai l'episodio nella stessa cartella dello scritp.
-
-[S] = Verrà aperto VLC.
+Esempio: [Ð] = Download terminato troverai l'episodio nella stessa cartella dello scritp.
+									[S] = Verrà aperto VLC.
 
 ## FINE!
 
