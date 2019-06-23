@@ -89,13 +89,13 @@ Una volta avviato lo script avrai a disposizione 2 opzioni:
 * Basta che inseriate il link dell'episodio per far partire lo streaming. Il link è lo stesso che viene lanciato quando schiacci sul sito il pulsante play.
 
 ### Download episodio/serie ###
-Come nel sito potrei scegliere le stagioni in base ai seguenti filtri:
+Come nel sito potrai scegliere le stagioni in base ai seguenti filtri:
 * 1)In Evidenza
 * 2)Popolari
 * 3)Nuove uscite 
 * 4)Filtro A-Z ( Inserire l'iniziale della serie che si vuole cercare )
 
-In base alla scelta lo scritp ci risponderà con le stagioni:
+In base alla scelta lo script ci risponderà con le stagioni.
 Esempio:
 
 ```bash
