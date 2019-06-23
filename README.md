@@ -6,10 +6,10 @@ Questo è il mio primo script in Python3. Ho voluto fare questo programma per me
 V4id-SDM è script in Python3 che ti permette di guardare, comodamente e senza varie interruzioni, tutte le serie contenute all'interno del famoso sito italiano vvvvid.it con anche la possibilità di poterle scaricare.
 
  ## Requisiti e compatibiltà
- Lo scritp è stato scritto utilizzando Python3 e devo essere lanciato con questo. 
+ Lo script è stato scritto utilizzando Python3 e deve essere lanciato con questo. 
  L'ho testato sia con Windows (10) e su Linux.
  
- I moduli che ho utilizzato per creare lo scritp sono i seguenti :
+ I moduli che ho utilizzato per creare lo script sono i seguenti :
  
  * requests
  * youtube_dl
