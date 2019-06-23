@@ -37,7 +37,7 @@ Installare **VLC** su entrambi i sistemi operativi.
 **NB: Se il link non funzionasse su google/youtube trovi molte guide su come installarlo.**
 
 **VLC**
-* Scaricate ed installate VLC da qui https://www.videolan.org/vlc/()
+* Scaricate ed installate VLC da qui https://www.videolan.org/vlc/
 * Ora dobbiamo aggiungere vlc lanciabile dal prompt dei comandi di windows. Puoi seguire questa semplice guida da 1 minuto (https://www.vlchelp.com/add-vlc-command-prompt-windows/).
 
 Ora che avete sia Python FFMPEG e VLC installati potete scariccare questo repository.
@@ -66,7 +66,7 @@ sudo apt-get install python3.*
 **NB: Se il link non funzionasse su google/youtube trovi molte guide su come installarlo.**
 
 **VLC**
-* Scaricate ed installate VLC da qui https://www.videolan.org/vlc/()
+* Scaricate ed installate VLC da qui https://www.videolan.org/vlc/
 
 
 Ora che avete sia Python FFMPEG e VLC installati potete scaricare questo repository.
