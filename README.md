@@ -40,7 +40,7 @@ Installare **VLC** su entrambi i sistemi operativi.
 * Scaricate ed installate VLC da qui https://www.videolan.org/vlc/()
 * Ora dobbiamo aggiungere vlc lanciabile dal prompt dei comandi di windows. Puoi seguire questa semplice guida da 1 minuto (https://www.vlchelp.com/add-vlc-command-prompt-windows/).
 
-Ora che avete sia Python che FFMPEG installati potete scariccare questo repository.
+Ora che avete sia Python FFMPEG e VLC installati potete scariccare questo repository.
 * Scaricare questo repository in formato zip cliccando sul bottone verde 'Clone or Download';
 * Estrarre il file zip in una cartella;
 * Eseguire il file `v4id-sdm-win-setup` per installare automaticamente i moduli di Python richiesti.
@@ -65,6 +65,8 @@ Enjoy :)
 **VLC**
 * Scaricate ed installate VLC da qui https://www.videolan.org/vlc/()
 
+
+Ora che avete sia Python FFMPEG e VLC installati potete scariccare questo repository.
 * git clone https://github.com/0v3rFlow/Vvvvid-SDM.git
 * cd Vvvvvid-SDM
 * pip install -r requirements.txt
@@ -74,7 +76,12 @@ Enjoy :)
 
 ## Utilizzo
 Una volta avviato lo scritp avrai a disposizione 2 opzioni:
-* 
+* 1) Streaming di un episodio(VLC Obbligatorio)
+* 2) Download episodio/serie
+
+### 1) Streaming di un episodio(VLC Obbligatorio) ###
+* Qui semplicemente basta che inseriate il link dell'episodio per far partire lo streaming. Il link è lo stesso di quando schiacci il pulsante play sul sito 
+
 
 
 
