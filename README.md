@@ -200,6 +200,7 @@ Adesso abbiamo 2 possibilità o scegliere un episodio oppure scaricare tutta la 
 **NB2: Se dicidi di scaricare tutta la serie o un solo episodio verrà creata una cartello dentro la cartella dello script con il nome"Vvvvid" e al suo interno troverai divisi per lingua tutte le serire con i lori episodi **
 
 **-> Cartella : VVVVID -> JP -> L'attacco dei giganti -> Episodio 1...**
+
 **->                   -> IT -> L'attacco dei giganti -> Episodio 1...**
           
 Esempio: 1
