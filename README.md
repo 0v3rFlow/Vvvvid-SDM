@@ -243,8 +243,7 @@ Esempio: [Ð] = Download terminato troverai l'episodio nella stessa cartella del
 
 Spero che possiate apprezzare il mio programma ed il mio impegno. Sicuramente il codice non è scritto a livello avanzato, ma per me aver raggiuto questo obiettivo è stato molto gratificante. Non mi fermerò qui! Cercherò di fare altri piccoli progetti per migliorarmi ancora di più ;)
 
-Se vi è piaciuto il mio programma lasciate pure una stella e se vi fa piacere, offrirmi anche un caffè :) https://www.paypal.me/VvvvidSDM
-
+Se vi è piaciuto il mio programma lasciate pure una stella.
 
 
 
