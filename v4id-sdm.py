@@ -186,7 +186,7 @@ def my_hook(d):
 
 def avvio_download(url, jsoninfoseason, showid, title, lingua_ep, parametro, st, idx, code_action=None):
     # bestvideo[height<=?1080]+bestaudio/best
-    percorso_file = '/' + lingua_ep + '/' + title + '/' + 'Episodio' + str(idx) + '-' + '%(title)s.%(ext)s'
+    percorso_file = './' + lingua_ep + '/' + title + '/' + 'Episodio' + str(idx) + '-' + '%(title)s.%(ext)s'
     ydl_opts = {
                 'format': "bestvideo+bestaudio/best",
                 'outtmpl': percorso_file,
